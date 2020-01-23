@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Leaflit - A web application to build and manage your own personal library branch. 
 ### Features
-Include Features here
+-Search via ISBN or input manually to add books to your shelf
+-Sort, Categorize, and Tag your books
+-
 ### Technologies
-Include Technologies here
+-Google Book API
+-(future)Google Vision API
+-using HttpClient
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/4W0Gh0AU/capstone-project
