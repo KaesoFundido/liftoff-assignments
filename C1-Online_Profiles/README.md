@@ -13,4 +13,4 @@ https://github.com/KaesoFundido
 https://www.linkedin.com/in/kaela-nichols-27091b1a0/
 
 ### Resume
-emailed to Greg and Koko
+also emailed to Greg and Koko 
